@@ -154,7 +154,7 @@ SortIncludes: true
 # 在C风格类型转换后添加空格
 SpaceAfterCStyleCast: false
 # 在赋值运算符之前添加空格
-SpaceBeforeAssignmentOperators:	false
+SpaceBeforeAssignmentOperators:	true
 # 开圆括号之前添加一个空格: Never, ControlStatements, Always
 SpaceBeforeParens: ControlStatements
 # 在空的圆括号中添加空格
