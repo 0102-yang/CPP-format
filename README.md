@@ -1,3 +1,3 @@
-# CPP-format
+# cpp-dev
 
-A .clang-format file for format C/C++ code.
+Setting files for clang-format and clang-tidy.
